@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/96612168/197338677-e16d3029-c2ce-4f9d-8b5e-7df5781c5c34.png)
 
-[AlgoExpert](https://www.algoexpert.io/product)
+[https://www.algoexpert.io](https://www.algoexpert.io)
 
 
 |Question|Difficulty|Category|
