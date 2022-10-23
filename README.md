@@ -9,4 +9,5 @@
 |Question|Difficulty|Category|
 |------|---|---|
 |Two Number Sum|Easy|Array|
+|Validate Subsequence|Easy|Array|
 |.|.|.|
