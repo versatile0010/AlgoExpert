@@ -11,4 +11,5 @@
 |Two Number Sum|Easy|Array|
 |Validate Subsequence|Easy|Array|
 |Sorted Squared Array|Easy|Array|
+|Tournament Winner|Easy|Array|
 |.|.|.|
