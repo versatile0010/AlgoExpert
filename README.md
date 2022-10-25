@@ -12,4 +12,5 @@
 |Validate Subsequence|Easy|Array|
 |Sorted Squared Array|Easy|Array|
 |Tournament Winner|Easy|Array|
+|Non Constructible Change|Easy|Array|
 |.|.|.|
