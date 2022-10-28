@@ -14,4 +14,5 @@
 |Tournament Winner|Easy|Array|
 |Non Constructible Change|Easy|Array|
 |Palindrome Check|Easy|String|
+|Caesar Cipher Encryptor|Easy|String|
 |.|.|.|
