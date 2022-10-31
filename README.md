@@ -16,4 +16,5 @@
 |Palindrome Check|Easy|String|
 |Caesar Cipher Encryptor|Easy|String|
 |Run-Length Encoding|Easy|String|
+|Generate Document|Easy|String|
 |.|.|.|
