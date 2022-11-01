@@ -18,4 +18,5 @@
 |Run-Length Encoding|Easy|String|
 |Generate Document|Easy|String|
 |First Non-Repeating Character|Easy|String|
+|Bubble sort|Easy|Sorting|
 |.|.|.|
