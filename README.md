@@ -21,4 +21,5 @@
 |Bubble sort|Easy|Sorting|
 |Insertion sort|Easy|Sorting|
 |Selection sort|Easy|Sorting|
+|Binary search|Easy|Searching|
 |.|.|.|
