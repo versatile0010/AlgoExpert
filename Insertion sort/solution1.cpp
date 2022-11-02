@@ -5,7 +5,7 @@ using namespace std;
 
 vector<int> insertionSort(vector<int> array) {
 	// Write your code here.
-	
+	if(array.empty()) return {};
 	for (int i = 1; i < array.size(); i++) {
 		int t = array[i];
 		int idx = i;
