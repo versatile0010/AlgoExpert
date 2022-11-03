@@ -22,4 +22,5 @@
 |Insertion sort|Easy|Sorting|
 |Selection sort|Easy|Sorting|
 |Binary search|Easy|Searching|
+|Find Three Largest Numbers|Easy|Searching|
 |.|.|.|
