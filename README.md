@@ -24,4 +24,5 @@
 |Binary search|Easy|Searching|
 |Find Three Largest Numbers|Easy|Searching|
 |Minimum Waiting Time|Easy|Greedy|
+|Class Photos|Easy|Greedy|
 |.|.|.|
