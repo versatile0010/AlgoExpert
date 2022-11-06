@@ -25,4 +25,5 @@
 |Find Three Largest Numbers|Easy|Searching|
 |Minimum Waiting Time|Easy|Greedy|
 |Class Photos|Easy|Greedy|
+|Tandem Bicycle|Easy|Greedy|
 |.|.|.|
