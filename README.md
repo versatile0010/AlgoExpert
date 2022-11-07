@@ -26,4 +26,5 @@
 |Minimum Waiting Time|Easy|Greedy|
 |Class Photos|Easy|Greedy|
 |Tandem Bicycle|Easy|Greedy|
+|Nth Fibonacci|Easy|Recursion|
 |.|.|.|
