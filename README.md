@@ -27,4 +27,5 @@
 |Class Photos|Easy|Greedy|
 |Tandem Bicycle|Easy|Greedy|
 |Nth Fibonacci|Easy|Recursion|
+|Product Sum|Easy|Recursion|
 |.|.|.|
