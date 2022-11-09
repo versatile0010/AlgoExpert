@@ -28,4 +28,5 @@
 |Tandem Bicycle|Easy|Greedy|
 |Nth Fibonacci|Easy|Recursion|
 |Product Sum|Easy|Recursion|
+|Depth-first Search|Easy|Graph|
 |.|.|.|
