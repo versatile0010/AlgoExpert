@@ -29,4 +29,5 @@
 |Nth Fibonacci|Easy|Recursion|
 |Product Sum|Easy|Recursion|
 |Depth-first Search|Easy|Graph|
+|Remove Duplicates From Linked List|Easy|Linked List|
 |.|.|.|
