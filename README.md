@@ -30,4 +30,6 @@
 |Product Sum|Easy|Recursion|
 |Depth-first Search|Easy|Graph|
 |Remove Duplicates From Linked List|Easy|Linked List|
+|Branch Sums|Easy|Binary Trees|
+|Node Depths|Easy|Binary Trees|
 |.|.|.|
