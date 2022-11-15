@@ -33,4 +33,5 @@
 |Branch Sums|Easy|Binary Trees|
 |Node Depths|Easy|Binary Trees|
 |Find Closet Value In BST|Easy|Binary Search Tree|
+|Three Number Sum|Medium|Array|
 |.|.|.|
