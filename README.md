@@ -34,4 +34,5 @@
 |Node Depths|Easy|Binary Trees|
 |Find Closet Value In BST|Easy|Binary Search Tree|
 |Three Number Sum|Medium|Array|
+|Smallest Difference|Medium|Array|
 |.|.|.|
